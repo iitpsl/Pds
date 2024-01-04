@@ -1,0 +1,83 @@
+
+Log for 'C:\Users\shallu\AppData\Local\Temp\ff39b7b392f74506adb35e9b7ff7664c-pulp.lp' Clone_2 (V22.1.1.0) Thu Jan  4 15:04:44 2024
+
+Tried aggregator 1 time.
+Reduced LP has 18055 rows, 4889500 columns, and 9779000 nonzeros.
+Presolve time = 6.19 sec. (2614.84 ticks)
+
+Iteration log . . .
+Iteration:     1    Infeasibility =        724939.179878
+Iteration:  2225    Objective     =      75839409.226720
+Iteration:  2266    Objective     =      74373328.837218
+Iteration:  4662    Objective     =      61274072.097120
+Iteration:  7778    Objective     =      56598590.703864
+Iteration: 10723    Objective     =      43901607.913517
+Iteration: 14131    Objective     =      36988308.926786
+Iteration: 17721    Objective     =      30261389.930355
+Iteration: 20581    Objective     =      27076708.461822
+Iteration: 24589    Objective     =      22719411.528690
+Iteration: 27864    Objective     =      20383757.425691
+Iteration: 31053    Objective     =      18856285.940045
+Iteration: 33851    Objective     =      16894223.735797
+Iteration: 36862    Objective     =      15549542.040682
+Iteration: 39231    Objective     =      10243223.290608
+Iteration: 42496    Objective     =       7399407.886627
+Iteration: 47061    Objective     =       6173731.845802
+
+Sifting solved model.
+
+
+Log for 'C:\Users\shallu\AppData\Local\Temp\559a3e6f5f2b4ecb9c8727c04bf92d61-pulp.lp' Clone_2 (V22.1.1.0) Thu Jan  4 15:32:06 2024
+
+Tried aggregator 1 time.
+Reduced LP has 18055 rows, 4889500 columns, and 9779000 nonzeros.
+Presolve time = 6.45 sec. (2614.84 ticks)
+
+Iteration log . . .
+Iteration:     1    Infeasibility =        724939.179878
+Iteration:  2225    Objective     =      75839409.226720
+Iteration:  2266    Objective     =      74373328.837218
+Iteration:  4662    Objective     =      61274072.097120
+Iteration:  7778    Objective     =      56598590.703864
+Iteration: 10723    Objective     =      43901607.913517
+Iteration: 14131    Objective     =      36988308.926786
+Iteration: 17721    Objective     =      30261389.930355
+Iteration: 20581    Objective     =      27076708.461822
+Iteration: 24589    Objective     =      22719411.528690
+Iteration: 27864    Objective     =      20383757.425691
+Iteration: 31053    Objective     =      18856285.940045
+Iteration: 33851    Objective     =      16894223.735797
+Iteration: 36862    Objective     =      15549542.040682
+Iteration: 39231    Objective     =      10243223.290608
+Iteration: 42496    Objective     =       7399407.886627
+
+Sifting solved model.
+
+
+Log for 'C:\Users\shallu\AppData\Local\Temp\8336d35e8b7f427ba67aaa25279e06b5-pulp.lp' Clone_2 (V22.1.1.0) Thu Jan  4 16:03:17 2024
+
+Tried aggregator 1 time.
+Reduced LP has 18055 rows, 4889500 columns, and 9779000 nonzeros.
+Presolve time = 7.34 sec. (2614.84 ticks)
+
+Iteration log . . .
+Iteration:     1    Infeasibility =        724939.179878
+Iteration:  2225    Objective     =      75839409.226720
+Iteration:  2266    Objective     =      74373328.837218
+Iteration:  4662    Objective     =      61274072.097120
+Iteration:  7778    Objective     =      56598590.703864
+Iteration: 10723    Objective     =      43901607.913517
+Iteration: 14131    Objective     =      36988308.926786
+Iteration: 17721    Objective     =      30261389.930355
+Iteration: 20581    Objective     =      27076708.461822
+Iteration: 24589    Objective     =      22719411.528690
+Iteration: 27864    Objective     =      20383757.425691
+Iteration: 31053    Objective     =      18856285.940045
+Iteration: 33851    Objective     =      16894223.735797
+Iteration: 36862    Objective     =      15549542.040682
+Iteration: 39231    Objective     =      10243223.290608
+Iteration: 42496    Objective     =       7399407.886627
+Iteration: 47061    Objective     =       6173731.845802
+
+Sifting solved model.
+

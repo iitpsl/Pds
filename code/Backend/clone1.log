@@ -1,0 +1,72 @@
+
+Log for 'C:\Users\shallu\AppData\Local\Temp\ff39b7b392f74506adb35e9b7ff7664c-pulp.lp' Clone_1 (V22.1.1.0) Thu Jan  4 15:04:44 2024
+
+Tried aggregator 1 time.
+No LP presolve or aggregator reductions.
+Presolve time = 5.91 sec. (2302.07 ticks)
+Parallel mode: using up to 13 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 4889500
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.22 sec. (117.23 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 13
+  Rows in Factor            = 18055
+  Integer space required    = 4851730
+  Total non-zeros in factor = 4965733
+  Total FP ops to factor    = 1375464991
+ Itn      Primal Obj        Dual Obj  Prim Inf Upper Inf  Dual Inf Inf Ratio
+   0   1.7703527e+12   0.0000000e+00  2.87e+10  0.00e+00  6.28e+08  1.00e+00
+   1   1.2792926e+12  -1.5245041e+10  2.10e+10  0.00e+00  4.59e+08  1.86e-06
+ Barrier aborted.
+Barrier time = 4.08 sec. (1659.95 ticks)
+
+Sifting solved model.
+
+
+Log for 'C:\Users\shallu\AppData\Local\Temp\559a3e6f5f2b4ecb9c8727c04bf92d61-pulp.lp' Clone_1 (V22.1.1.0) Thu Jan  4 15:32:06 2024
+
+Tried aggregator 1 time.
+No LP presolve or aggregator reductions.
+Presolve time = 6.00 sec. (2302.07 ticks)
+Parallel mode: using up to 13 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 4889500
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.20 sec. (117.23 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 13
+  Rows in Factor            = 18055
+  Integer space required    = 4851730
+  Total non-zeros in factor = 4965733
+  Total FP ops to factor    = 1375464991
+ Itn      Primal Obj        Dual Obj  Prim Inf Upper Inf  Dual Inf Inf Ratio
+   0   1.7703527e+12   0.0000000e+00  2.87e+10  0.00e+00  6.28e+08  1.00e+00
+   1   1.2792926e+12  -1.5245041e+10  2.10e+10  0.00e+00  4.59e+08  1.86e-06
+ Barrier aborted.
+Barrier time = 4.02 sec. (1659.95 ticks)
+
+Sifting solved model.
+
+
+Log for 'C:\Users\shallu\AppData\Local\Temp\8336d35e8b7f427ba67aaa25279e06b5-pulp.lp' Clone_1 (V22.1.1.0) Thu Jan  4 16:03:17 2024
+
+Tried aggregator 1 time.
+No LP presolve or aggregator reductions.
+Presolve time = 6.84 sec. (2302.07 ticks)
+Parallel mode: using up to 13 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 4889500
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.25 sec. (117.23 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 13
+  Rows in Factor            = 18055
+  Integer space required    = 4851730
+  Total non-zeros in factor = 4965733
+  Total FP ops to factor    = 1375464991
+ Itn      Primal Obj        Dual Obj  Prim Inf Upper Inf  Dual Inf Inf Ratio
+   0   1.7703527e+12   0.0000000e+00  2.87e+10  0.00e+00  6.28e+08  1.00e+00
+   1   1.2792926e+12  -1.5245041e+10  2.10e+10  0.00e+00  4.59e+08  1.86e-06
+ Barrier aborted.
+Barrier time = 4.45 sec. (1659.95 ticks)
+
+Sifting solved model.
+
